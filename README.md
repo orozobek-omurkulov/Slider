@@ -1,6 +1,6 @@
 # Slider
  This is simple slider using html, css, javascript
-
+You can see it https://clever-chandrasekhar-85e178.netlify.app/
  How to start
 
  1 - download the code
